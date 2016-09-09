@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.13",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "CreaturePackPlugin",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/442925bb7f9541319366ab2d902c0c45"
+		}
+	]
+}
